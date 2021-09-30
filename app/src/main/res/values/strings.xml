@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="world_wide_record">World Wide Record</string>
+    <string name="cases">Cases</string>
+    <string name="number_of_cases">Number Of Cases</string>
+    <string name="number_of_recovered">Number Of Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="number_of_deaths">Number Of Deaths</string>
+    <string name="indian_record">Indian Record</string>
+    <string name="state_name">State Name</string>
+    <string name="global_stats">Global Stats</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="world_covid_report">World Covid Report</string>
+    <string name="critical">Critical</string>
+    <string name="total_deaths">Total Deaths</string>
+</resources>
